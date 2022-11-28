@@ -1,0 +1,15 @@
+{
+  "name": "nrm-zh",
+  "version": "1.0.0",
+  "description": "这是一款全中文的,轻量化的npm镜像源管理工具",
+  "main": "index.js",
+  "bin":{
+    "x-nrm":"bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zxlin",
+  "license": "ISC"
+}
