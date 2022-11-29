@@ -6,17 +6,7 @@
 
 ### npm
 ```
-npm install npm-zh
-```
-
-### yarn
-```
-yarn add npm-zh
-```
-
-### pnpm
-```
-pnpm install npm-zh
+npm install nrm-zh -g
 ```
 
 ## 使用
